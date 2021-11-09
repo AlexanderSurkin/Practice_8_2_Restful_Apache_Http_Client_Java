@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tasks>
+    <task active="true" end="35000" repeat="0" repeated="false" start="28800" time="28800">Проснись и иди на работу</task>
+    <task active="true" end="48800" repeat="0" repeated="false" start="48800" time="48800">Не забудь пообедать</task>
+    <task active="true" end="30000" repeat="64800" repeated="true" start="30000" time="30000">Не забудь сходить домой</task>
+</tasks>
